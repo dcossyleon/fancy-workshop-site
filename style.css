@@ -53,6 +53,7 @@ blockquote {
   position: relative;
 }
 
+/*
 .col-xs-12 .col-sm-4 .col-md-3{
   width: 25%;
   position: relative;
@@ -66,7 +67,8 @@ div.tocify {
     max-width: 260px;
     max-height: 85%;
     font-size: 16px;
-}
+} 
+
 
 .tocify {
   border: none;
@@ -81,9 +83,12 @@ div.tocify {
   position: sticky !important;
 }
 
+
 .toc-content {
   width: 75%
 }
+
+
 
 .list-group-item {
     position: relative;
@@ -235,6 +240,7 @@ body, html {
     right:0;
     bottom:0;
   }
+  
 .lil-image-text { 
     color: white;
     margin-top: 0px;
@@ -476,38 +482,6 @@ body, html {
 }
 
 
-/* ABOUT THE AUTHORS CSS */
-
-.image-text-about-the-authors {
-  top:44%;
-}
-
-.about-the-author-color-textbox {
-  width:33.3%;
-  background: white;
-  color: black;
-  text-align: center;
-  font-weight: normal;
-  margin-bottom: 1em;
-}
-
-.about-the-author-color-textbox-title {
-  text-align: center;
-  font-weight: bold;
-  font-size: 2.2rem;
-  padding: 8rem 3rem 0rem 3rem;
-}
-
-.about-the-author-color-textbox-text {
-  font-size: 2rem;
-  padding: 3rem 8rem 0rem 8rem;
-  font-weight: normal;
-  text-transform: normal;
-}
-
-.about-the-author-subimage {
-  width: 40%;
-}
 
 @media only screen and (max-width: 768px) {
   .lil-image-text {
