@@ -1,5 +1,5 @@
 ---
-title: "Plant Lovers Workshop 2019"
+title: "Plant Lovers Workshop 2020"
 output:
   html_document:
     includes:
@@ -8,30 +8,28 @@ output:
 
 ![](https://images.unsplash.com/photo-1463936575829-25148e1db1b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1990&q=80)
 
-<br>
+\
 
 #### We are so excited to have you as a participant at this year's workshop. You can find all of our workshop information on this site.  
 
-<br>
+\
 
 # When & Where
 
-**Date:** August 3-4, 2019, 08:00-17:30  
+**Date:** August 3-4, 2020, 08:00-17:30  
 **Location:** Rm 123, Plant Studio, Plant City
 
 *Parking: Not available. Please consider walking here and enjoy the nice plants outdoors as you do.*  
 
 
-<br>
-
+\
 
 # Set up & Pre-work
 
 To participate in this workshop, you will need to make sure you:  
 
 
-<br>
-
+\
 
 
 #### Install Necessary Packages
@@ -48,8 +46,7 @@ install.packages(c("devtools", "knitr", "magrittr", "sf", "sp", "rmarkdown", "us
 
 In addition, you will need an up-to-date web browser.  
 
-<br>
-
+\
 
 
 # Learning Objectives
@@ -59,7 +56,7 @@ Lorem ipsum dolor sit amet, cum ea ubique iisque facilisi, pri propriae gloriatu
 Ne cetero definiebas scripserit sea, sint viris elitr vim an. Quidam audire nostrum te pri, eam an invenire scriptorem. Ex altera aeterno scaevola pro, solum iusto ne mei. Et pri cibo constituam, velit postea utroque vim ad. Invidunt electram at per, sed id mutat impetus interesset.  
 
 
-<br>
+\
 
 # Organizers
 
@@ -67,13 +64,13 @@ Ne cetero definiebas scripserit sea, sint viris elitr vim an. Quidam audire nost
 * Gregor Mendel
 
 
-<br>
+\
 
 # Schedule
 
 Our agenda is below. 
 
-<br>
+\
 
 ### Day 1
 
@@ -104,7 +101,7 @@ Please download the necessary materials for each session.
 ```
 
 
-<br>
+\
 
 
 ## Day 2 Materials

@@ -1,7 +1,7 @@
-name: "Plant Lovers Workshop 2019"
+name: "Plant Lovers Workshop"
 output_dir: "docs"
 navbar:
-  title: "Plant Lovers Workshop 2019"
+  title: "Plant Lovers Workshop"
   left:
     - text: "Home"
       href: index.html
@@ -17,8 +17,8 @@ output:
     css: style.css
     theme: flatly
     highlight: tango
-    toc: false
-    toc_float: false
+    toc: true
+    toc_float: true
     code_download: true
     
     
